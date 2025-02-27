@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 1. Run the script using:
 ```sh
-python src/main.py
+python src/DownTheTube.py
 ```
 2. You will be presented with a menu:
     ```
